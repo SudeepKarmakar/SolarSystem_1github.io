@@ -543,9 +543,9 @@ body{
     }
 }
 
-@media screen and (max-width:800px){
+@media screen and (max-width:950px){
     .all{
-    margin-left: 1300px;
-    margin-top: 600px;
+    margin-left: 1700px;
+    margin-top: 1000px;
     }
 }
