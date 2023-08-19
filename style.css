@@ -545,7 +545,7 @@ body{
 
 @media screen and (max-width:800px){
     .all{
-        margin-left: 500px;
-        margin-top: 300px;
+    margin-left: 1065px;
+    margin-top: auto;
     }
 }
